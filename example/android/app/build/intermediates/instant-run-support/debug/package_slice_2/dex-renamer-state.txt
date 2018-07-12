@@ -1,0 +1,4 @@
+#Thu Jul 12 11:31:44 CST 2018
+base.0=/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/values-v28/values-v28.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/values-v28/values-v28.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/values-v28/values-v28.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/values-v28/values-v28.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    }
+]

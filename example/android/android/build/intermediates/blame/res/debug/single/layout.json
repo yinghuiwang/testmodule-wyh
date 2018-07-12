@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/e8f76faeff605adb0cd1ee1f0832728991ab13c2/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/ac3fa3c3f0452d8222d03239375346283b0cbc65/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_tooltip.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/db79174af54c217106bbdab0ec723ad3aa7bbc58/output/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/node_modules/test-module/lib/android/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/45fe72cd56cfc2b166f3179792bf7ababa805713/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/972bee7eec803860a92b276240bc55dd694f3d18/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/testmodule/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/95eff5777723e46867b301af0eeb920dcaf27ff4/output/res/layout/abc_action_menu_item_layout.xml"
+    }
+]
