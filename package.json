@@ -8,10 +8,10 @@
   ],
   "author": "kyle",
   "license": "ISC",
-  "homepage": "https://github.com/yinghuiwang/CreatNativeModule",
+  "homepage": "https://github.com/yinghuiwang/testmodule-wyh",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yinghuiwang/CreatNativeModule.git"
+    "url": "git+https://github.com/yinghuiwang/testmodule-wyh.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
