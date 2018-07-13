@@ -1,5 +1,5 @@
 rootProject.name = 'A7011CreatNativeModule'
-include ':testmodule'
-project(':testmodule').projectDir = new File(rootProject.projectDir, '../node_modules/testmodule/android')
+include ':testmodule-wyh'
+project(':testmodule-wyh').projectDir = new File(rootProject.projectDir, '../node_modules/testmodule-wyh/android')
 
 include ':app'

@@ -42,6 +42,8 @@ typings/
 # Optional npm cache directory
 .npm
 .idea
+.gradle
+build/
 
 # Optional eslint cache
 .eslintcache

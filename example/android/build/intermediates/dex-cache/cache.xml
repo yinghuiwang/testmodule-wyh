@@ -11,6 +11,33 @@
         <dex dex="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61f730e5a543908dfa0e818f4fc6e588015e5d7f/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/Users/wangyinghui/.android/build-cache/f59f54857552c4ce9a2c30ecbd14b155dd624365/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/localPackage/testmodule-wyh/example/android/app/build/intermediates/pre-dexed/debug/classes_1d9b960abacfa80b197e1e839f62ec6894daa170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangyinghui/.android/build-cache/f59f54857552c4ce9a2c30ecbd14b155dd624365/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/localPackage/testmodule-wyh/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7b3e56e0c52399b4dde49e77c785b51660888c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/localPackage/testmodule-wyh/example/node_modules/testmodule-wyh/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe0086ee501b16effcf5524c6d823a9b948d4bc9">
+        <dex dex="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/localPackage/testmodule-wyh/example/android/app/build/intermediates/pre-dexed/debug/classes_0a2a8947fc42e9d627b26beeda4af229fe44f3a1.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"

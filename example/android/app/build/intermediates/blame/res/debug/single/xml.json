@@ -2,5 +2,9 @@
     {
         "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/2018/A7011CreatNativeModule/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/wangyinghui/.android/build-cache/a73d7ffc01498db470f4aaa411d03bc1a0b5501d/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/wangyinghui/Documents/百度云同步盘/学习/14-ReactNative/01-project/localPackage/testmodule-wyh/example/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/wangyinghui/.android/build-cache/f59f54857552c4ce9a2c30ecbd14b155dd624365/output/res/xml/preferences.xml"
     }
 ]
