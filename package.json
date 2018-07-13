@@ -13,9 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/yinghuiwang/CreatNativeModule.git"
   },
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
