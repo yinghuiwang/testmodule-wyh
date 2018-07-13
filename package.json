@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
+  "keywords": [
+    "testmodule"
+  ],
+  "author": "kyle",
+  "license": "ISC",
+  "homepage": "https://github.com/yinghuiwang/CreatNativeModule",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinghuiwang/CreatNativeModule.git"
+  },
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
