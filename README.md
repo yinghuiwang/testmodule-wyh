@@ -7,4 +7,4 @@ $ yarn install
 $ react-native run-android
 ```
 ## 运行效果图
-<img src="https://ws4.sinaimg.cn/large/006tNc79ly1ftbqrctgxbj30sz1qqdin.jpg" width='30%'><img src='https://ws1.sinaimg.cn/large/006tNc79ly1ftcnhs0mdwj30u01hc0u6.jpg' width='30%' />
+![](https://ws4.sinaimg.cn/large/006tNc79ly1ftbqrctgxbj30sz1qqdin.jpg) ![](https://ws1.sinaimg.cn/large/006tNc79ly1ftcnhs0mdwj30u01hc0u6.jpg)
