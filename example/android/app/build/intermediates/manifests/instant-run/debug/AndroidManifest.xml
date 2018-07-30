@@ -17,8 +17,10 @@
     <application
         android:name="com.a7011creatnativemodule.MainApplication"
         android:allowBackup="false"
+        android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.a7011creatnativemodule.MainActivity"
@@ -41,8 +43,8 @@
             android:value="27.0.0-SNAPSHOT" />
 
         <provider
-            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="com.a7011creatnativemodule.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.a7011creatnativemodule.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
